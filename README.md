@@ -1,6 +1,6 @@
 # Projeto-Use-of-Force
 
-# O Projeto Use of Force é um projeto desenvolvido em Python pela plataforma Jupyter Notebook, pelo criador Victor Matheus Araújo Oliveira. O objetivo do projeto é utilizar dados coletados pelo Departamento de Polícia de Seattle e disponibilizados publicamente para analisar o uso da força policial.
+O Projeto Use of Force é um projeto desenvolvido em Python pela plataforma Jupyter Notebook, pelo criador Victor Matheus Araújo Oliveira. O objetivo do projeto é utilizar dados coletados pelo Departamento de Polícia de Seattle e disponibilizados publicamente para analisar o uso da força policial.
 # No projeto, são utilizadas diversas bibliotecas, como pandas, matplotlib, numpy, keras e scikit-learn, para manipulação e análise de dados, criação de gráficos, treinamento de modelos de machine learning e avaliação de métricas.
 # Na primeira parte do projeto, o código utiliza as bibliotecas pandas e matplotlib para carregar os dados e visualizar os picos ou linhas de tendência nos incidentes ao longo dos dias, semanas, meses e anos. Isso permite identificar possíveis padrões de comportamento ou variações sazonais nos dados analisados.
 # Na segunda parte, o código calcula o percentual de casos reincidentes em relação ao total de incidentes em cada setor e verifica a correlação entre essa métrica e o percentual de incidentes do tipo "Level 2". Isso permite avaliar se há alguma relação entre a reincidência e o nível de incidentes.
